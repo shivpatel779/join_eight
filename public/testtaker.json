@@ -1,0 +1,15 @@
+{
+	"records": [
+		{"name": "Test1", "address": "Bhopal", "contact": "8457961236"},
+		{"name": "Test2", "address": "indore", "contact": "7894561230"},
+		{"name": "Test3", "address": "Delhi", "contact": "9632147850"},
+		{"name": "Test4", "address": "indore", "contact": "4567891237"},
+		{"name": "Test5", "address": "Delhi", "contact": "9638527014"}
+		
+	]
+}
+
+
+
+
+
